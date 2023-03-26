@@ -9,6 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@solana/spl-token": "^0.3.7",
+    "@solana/web3.js": "^1.74.0",
     "autoprefixer": "10.4.14",
     "eslint": "8.36.0",
     "eslint-config-next": "13.2.4",
